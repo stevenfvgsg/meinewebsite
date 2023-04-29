@@ -11,8 +11,8 @@ body {
 }
 
 header {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 nav {
@@ -54,7 +54,8 @@ nav ul {
 
 footer ul li,
 nav ul li {
-  padding: 2px;
+  padding: 20px;
+  margin: 5px;
   
   
   
