@@ -63,7 +63,7 @@ nav ul li {
   display: flex;
   justify-content: center;
   align-items: center;
-  word-spacing: 10px;
+  word-spacing: 3.5em;
 }
 
 section {
