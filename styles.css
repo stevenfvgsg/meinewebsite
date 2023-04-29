@@ -54,14 +54,13 @@ nav ul {
 
 footer ul li,
 nav ul li {
-  padding: 16px;
+  padding: 70px;
 }
 
 .mitte {
   display: flex;
   justify-content: center;
   align-items: center;
-  letter-spacing: 500x;
 }
 
 section {
