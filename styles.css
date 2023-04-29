@@ -54,7 +54,8 @@ nav ul {
 
 footer ul li,
 nav ul li {
-  padding: 6px;
+  padding: 10px;
+  margin: 10px;
 }
 
 .mitte {
